@@ -1,0 +1,6 @@
+{
+  "name": "Movie Streaming Platform",
+  "description": "A premium, responsive Netflix-style movie streaming platform featuring interactive banners, search, custom player, favorites watchlist, quality downloads, and detailed film sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
